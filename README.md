@@ -1,0 +1,1 @@
+# pwa-isolated-storage
